@@ -18,5 +18,4 @@ adiciona_clientes('Vivi', cliente3)
 
 print(cliente1)
 print(cliente2)
-print(cliente3) 
-# eae
+print(cliente2)
