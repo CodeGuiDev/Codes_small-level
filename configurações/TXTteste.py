@@ -1,0 +1,4 @@
+# como instalo requirements.txt no python?
+# Para instalar as dependências listadas em um arquivo requirements.txt, você pode usar o pip, que é o gerenciador de pacotes do Python. Siga os passos abaixo:     
+# o requiremts.txt no outro ambiente virtual que eu tenho ele tbm é salvado aqui, entao eu posso usar ele para instalar as dependencias no outro ambiente virtual, certo?
+# Sim, você pode usar o mesmo arquivo requirements.txt para instalar as dependências em outro ambiente virtual. Basta ativar o ambiente virtual onde deseja instalar as dependências e executar o comando pip install -r requirements.txt, apontando para o arquivo requirements.txt que contém as dependências necessárias. Certifique-se de que o arquivo requirements.txt esteja no diretório correto ou forneça o caminho completo para ele.

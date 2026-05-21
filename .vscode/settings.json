@@ -1,0 +1,13 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "none",
+    "explorer.compactFolders": false,
+    "editor.fontSize": 18,
+    "code-runner.executorMap": {
+        "python": "clear ; python -u",
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.iconTheme": "material-icon-theme"
+}
