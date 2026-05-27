@@ -1,0 +1,20 @@
+# Atributos de classe
+class Pessoa: 
+    ano_atual = 2022 # atributo que pode ser usado nas funçoes dentro da classe e para chamar comando 
+        # exe: print(Pessoa.ano_atual)
+    def __init__(self, nome, idade):
+        self.nome = nome
+        self.idade = idade
+
+    def get_ano_nascimento(self):
+        return Pessoa.ano_atual - self.idade
+
+
+p1 = Pessoa('João', 35)
+p2 = Pessoa('Helena', 12)
+
+print(Pessoa.ano_atual)
+# Pessoa.ano_atual = 1
+
+print(p1.get_ano_nascimento())
+print(p2.get_ano_nascimento())
