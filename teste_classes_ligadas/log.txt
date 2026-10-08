@@ -1,0 +1,24 @@
+2026-06-15, 19:39:39
+error: Não foi possivel acessar (lf)
+
+2026-06-15, 19:39:39
+success: Sucesso ao logar (lf)
+
+2026-06-15, 19:41:47
+error: Não foi possivel acessar (lf)
+
+2026-06-15, 19:41:47
+success: Sucesso ao logar (lf)
+
+2026-06-15, 19:41:57
+error: Não foi possivel acessar (lf)
+
+2026-06-15, 19:41:57
+success: Sucesso ao logar (lf)
+
+2026-06-15, 19:41:59
+error: Não foi possivel acessar (lf)
+
+2026-06-15, 19:41:59
+success: Sucesso ao logar (lf)
+

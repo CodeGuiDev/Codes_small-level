@@ -31,10 +31,10 @@ class motor:
     def __init__(self, nome):
         self.nome = nome
     
-
+    
 carro1 = Carro('Fordian')
 fabricante1 = fabricante('RENAULT')
 motor1 = motor('1.0')
 carro1.fabricante = fabricante1
 carro1.motor = motor1
-print(carro1.nome, carro1.fabricante.nome, carro1.motor.nome)
+print(carro1.nome, carro1.fabricante.nome, carro1.motor.nome)       
